@@ -1,7 +1,6 @@
 # ClusteringAnalysisStudy
 
-This repository contains R and Python scripts for clustering and statistical analysis of neuroimaging data. It is designed to analyze and compare structural brain features across different datasets.
-
+This repository contains R and Python scripts for clustering and statistical analysis of neuroimaging data. 
 📂 Repository Structure
 
 1. R Scripts
