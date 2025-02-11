@@ -1,6 +1,7 @@
 # ClusteringAnalysisStudy
 
 This repository contains R and Python scripts for clustering and statistical analysis of neuroimaging data. 
+
 📂 Repository Structure
 
 1. R Scripts
