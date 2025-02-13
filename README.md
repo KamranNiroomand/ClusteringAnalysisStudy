@@ -1,4 +1,4 @@
-# ClusteringAnalysisStudy
+# SadatNejad_TransPsych_2025
 
 This repository contains R and Python scripts for clustering and statistical analysis of neuroimaging data. 
 
